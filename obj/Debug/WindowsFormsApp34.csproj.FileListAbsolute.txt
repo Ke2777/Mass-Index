@@ -1,0 +1,21 @@
+C:\Users\stud\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Form1.resources
+C:\Users\stud\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Properties.Resources.resources
+C:\Users\stud\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.GenerateResource.cache
+C:\Users\stud\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe.config
+C:\Users\stud\source\repos\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe
+C:\Users\stud\source\repos\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.pdb
+C:\Users\stud\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.exe
+C:\Users\stud\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.pdb
+D:\Download\Google Drive\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe.config
+D:\Download\Google Drive\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe
+D:\Download\Google Drive\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.pdb
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.AssemblyReference.cache
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.SuggestedBindingRedirects.cache
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Form1.resources
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Properties.Resources.resources
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.GenerateResource.cache
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.CoreCompileInputs.cache
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.exe
+D:\Download\Google Drive\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.pdb
